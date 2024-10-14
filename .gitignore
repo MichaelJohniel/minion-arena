@@ -1,1 +1,4 @@
 .DS_Store
+
+# Ignore old builds
+.legacy/
