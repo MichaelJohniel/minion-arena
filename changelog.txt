@@ -1,0 +1,23 @@
+v2 - Added Backgrounds && Tiles
+   - Added Animated enemy
+   - Added Kill Counter
+   - Added New Player Health Bar
+   - Added Purple Giant
+   - Added Player and enemy SFX
+v3 - Replaced Purple Giant with Red Slime Giant
+   - Added Potential heart drop on enemy death
+   - Added Purple Mini Boss
+v4 - Added Down Slash attack
+v5 - Added dash damage towards enemies
+v6 - Changed Down Slash attack to only occur
+     when there's downward momentum or 'Z' and 'Down Arrow' are pressed at the same time
+v7 - Multiple Hearts can potentially drop
+   - Added new sword, stronger, press '2' to equip. '1' to return to starter sword
+v8 - Added Animated Logo
+   - Added More tiles to the enviorment
+   - Added new Main Menu buttons and graphics
+   - Added Temporary background music
+   - Red Giants attack more frequently
+   - Dash after image
+   - Turning Dust effect
+   - Gameplay video in main menu
